@@ -7,10 +7,11 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output
-<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/c4659389-dc12-4ebb-9242-cdb30e4fe158" />
+
 
 # 1. Foundational Concepts of Generative AI
 
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/c4659389-dc12-4ebb-9242-cdb30e4fe158" />
 Generative AI refers to systems that learn patterns from data and use them to create new content—text, images, music, code, and more. These foundational concepts define how such systems operate.
 Core Concepts and Their Types:
 • 	Generative Modeling
@@ -47,7 +48,7 @@ Large-scale pre-trained models that serve as the base for many downstream tasks.
   • 	Code Models: Codex, AlphaCode
 • 	Applications: Translation, summarization, multimodal agents.
 
-<img width="1800" height="1000" alt="image" src="https://github.com/user-attachments/assets/150f2853-99ab-4ae7-ba6d-22bb74c4c712" />
+
 
 # 2. Generative AI Architectures
 
