@@ -15,13 +15,15 @@ Develop a comprehensive report for the following exercises:
 
 Generative AI refers to systems that learn patterns from data and use them to create new content—text, images, music, code, and more. These foundational concepts define how such systems operate.
 Core Concepts and Their Types:
+
 • 	Generative Modeling
 Learns the probability distribution of input data to generate similar outputs.
 • 	Types:
   • 	Explicit Models: Directly model the data distribution (e.g., PixelCNN, NADE).
   • 	Implicit Models: Learn to generate data without modeling the distribution explicitly (e.g., GANs).
   • 	Applications: Image synthesis, text generation, simulation.
-• 	Latent Space Representation
+  
+• 	Latent Space Representation:
 Maps input data into a compressed, abstract space where meaningful variations can be explored.
 • 	Types:
   • 	Continuous Latent Space: Used in VAEs, Diffusion Models.
@@ -90,6 +92,7 @@ Virtual Assistants – Conversational support, scheduling, and domain-specific a
 # 4. Impact of Scaling in Large Language Models (LLMs)
 
 Scaling LLMs has led to dramatic improvements in performance, but also introduced new challenges.
+
 Key Impacts:
   • 	Performance Gains: Larger models generalize better and handle complex tasks.
   • 	Cost Reduction: Inference costs have dropped ~1000x, enabling real-time applications.
