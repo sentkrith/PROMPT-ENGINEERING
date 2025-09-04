@@ -16,7 +16,7 @@ Develop a comprehensive report for the following exercises:
 Generative AI refers to systems that learn patterns from data and use them to create new content—text, images, music, code, and more. These foundational concepts define how such systems operate.
 Core Concepts and Their Types:
 
-• 	Generative Modeling
+• 	Generative Modeling:
 
 Learns the probability distribution of input data to generate similar outputs.
 
@@ -27,28 +27,40 @@ Learns the probability distribution of input data to generate similar outputs.
   • 	Applications: Image synthesis, text generation, simulation.
   
 • 	Latent Space Representation:
+
 Maps input data into a compressed, abstract space where meaningful variations can be explored.
+
 • 	Types:
+
   • 	Continuous Latent Space: Used in VAEs, Diffusion Models.
   • 	Discrete Latent Space: Found in Autoencoders, some Transformer-based models.
   • 	Applications: Style transfer, anomaly detection, interpolation.
-• 	Unsupervised & Self-Supervised Learning
+• 	Unsupervised & Self-Supervised Learning:
+
 Enables models to learn structure from raw data without explicit labels.
+
 • 	Unsupervised Types: Clustering (K-Means), Dimensionality Reduction (PCA, t-SNE).
+
 • 	Self-Supervised Types:
+
   • 	Predictive Modeling: Masked token prediction (e.g., BERT).
   • 	Contrastive Learning: SimCLR, MoCo.
 • 	Applications: Pretraining for LLMs, feature extraction.
 • 	Prompt Engineering
+
 Crafting inputs to guide model outputs effectively, especially in LLMs.
 • 	Types:
+
   • 	Zero-shot prompting: No examples provided.
   • 	Few-shot prompting: Includes a few examples.
   • 	Chain-of-thought prompting: Encourages step-by-step reasoning.
 • 	Applications: Chatbots, code generation, creative writing.
 • 	Foundation Models
+
 Large-scale pre-trained models that serve as the base for many downstream tasks.
+
 • 	Types:
+
   • 	Text Models: GPT, Claude
   • 	Multimodal Models: Gemini, Gato
   • 	Code Models: Codex, AlphaCode
