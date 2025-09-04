@@ -12,6 +12,7 @@ Develop a comprehensive report for the following exercises:
 # 1. Foundational Concepts of Generative AI
 
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/c4659389-dc12-4ebb-9242-cdb30e4fe158" />
+
 Generative AI refers to systems that learn patterns from data and use them to create new content—text, images, music, code, and more. These foundational concepts define how such systems operate.
 Core Concepts and Their Types:
 • 	Generative Modeling
