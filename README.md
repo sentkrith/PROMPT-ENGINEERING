@@ -17,8 +17,11 @@ Generative AI refers to systems that learn patterns from data and use them to cr
 Core Concepts and Their Types:
 
 • 	Generative Modeling
+
 Learns the probability distribution of input data to generate similar outputs.
+
 • 	Types:
+
   • 	Explicit Models: Directly model the data distribution (e.g., PixelCNN, NADE).
   • 	Implicit Models: Learn to generate data without modeling the distribution explicitly (e.g., GANs).
   • 	Applications: Image synthesis, text generation, simulation.
